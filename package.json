@@ -1,0 +1,25 @@
+{
+  "name": "cnad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addy29k/CNADPractical.git"
+  },
+  "author": "Aditya Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addy29k/CNADPractical/issues"
+  },
+  "homepage": "https://github.com/addy29k/CNADPractical#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-modules": "^0.0.1"
+  }
+}
